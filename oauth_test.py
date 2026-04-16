@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║          OAUTH FLOW TESTER  —  by Z33                        ║
-║       github.com/yourhandle/oauth-flow-tester                ║
+║          OAUTH FLOW TESTER  —  by 0xZ33                      ║
+║       github.com/Zeeshanafridai/oauth-flow-tester            ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
