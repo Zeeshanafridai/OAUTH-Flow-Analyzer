@@ -156,22 +156,5 @@ Attack: Once stolen, use indefinitely even after victim logs out
 6. Submit Critical/High findings to H1/Bugcrowd
 ```
 
----
-
-## GitHub Info
-
-**Description:**
-```
-OAuth 2.0/OIDC attack suite — state CSRF, redirect_uri bypass, PKCE downgrade, scope escalation, token leakage, OIDC flaws
-```
-
-**Topics:**
-```
-oauth, oauth2, oidc, openid-connect, pkce, redirect-uri, csrf,
-bug-bounty, penetration-testing, web-security, python, appsec
-```
-
----
-
 ## License
 MIT — For authorized testing only.
