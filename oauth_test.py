@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║          OAUTH FLOW TESTER  —  by 0xZ33                      ║
-║       github.com/Zeeshanafridai/oauth-flow-tester            ║
+║       github.com/Zeeshanafridai/OAUTH-Flow-Analyzer          ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
