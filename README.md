@@ -19,8 +19,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourhandle/oauth-flow-tester
-cd oauth-flow-tester
+git clone https://github.com/zeeshanafridai/oauth-flow-analyzer
+cd oauth-flow-analyzer
 python3 oauth_test.py --help
 ```
 
